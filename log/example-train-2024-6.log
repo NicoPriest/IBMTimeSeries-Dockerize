@@ -1,0 +1,15 @@
+unique_id,timestamp,country,date_range,metric,model_version,model_version_note,runtime,mode
+14666483-ee15-447e-877d-72f12a1e09e6,1717882005.5480778,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 20739},0.1,supervised learing model for time-series,000:00:04,prod
+9d524bbd-6a0c-433a-82e6-9f49ec4340c2,1717887052.832013,all,"('2017-11-29', '2019-05-31')",{'rmse': 17252},0.1,supervised learing model for time-series,000:00:04,prod
+8d80e215-031e-404b-91e7-2cfebf693f46,1717887054.7217782,eire,"('2017-11-29', '2019-05-31')",{'rmse': 1609},0.1,supervised learing model for time-series,000:00:01,prod
+e7e859ed-a614-439e-a75d-8eb251e8d166,1717887056.7234857,france,"('2017-11-29', '2019-05-31')",{'rmse': 531},0.1,supervised learing model for time-series,000:00:01,prod
+da662f57-b14b-4d24-a741-ef2b62b64e35,1717887058.587359,germany,"('2017-11-29', '2019-05-31')",{'rmse': 518},0.1,supervised learing model for time-series,000:00:01,prod
+7cbe45d0-0df0-47f6-b387-42e7ce60b83c,1717887059.957064,hong_kong,"('2018-04-19', '2019-05-01')",{'rmse': 983},0.1,supervised learing model for time-series,000:00:01,prod
+85d879ad-de68-41b0-a987-64ae56586833,1717887061.7668166,netherlands,"('2017-11-30', '2019-05-31')",{'rmse': 117},0.1,supervised learing model for time-series,000:00:01,prod
+ebb1021b-8055-4c12-b568-f5f19a9a8d6f,1717887063.37351,norway,"('2017-12-05', '2019-05-11')",{'rmse': 67},0.1,supervised learing model for time-series,000:00:01,prod
+81a7c92c-6bef-4714-8e37-62d2cc910268,1717887065.1251535,portugal,"('2017-11-29', '2019-05-31')",{'rmse': 182},0.1,supervised learing model for time-series,000:00:01,prod
+4d66f057-6b6c-452a-8fb1-65ca523ac33f,1717887066.4885864,singapore,"('2018-04-25', '2019-05-12')",{'rmse': 2329},0.1,supervised learing model for time-series,000:00:01,prod
+5ba0d8c3-686f-41f5-8f7c-00343bf91d4e,1717887068.2643318,spain,"('2017-12-01', '2019-05-31')",{'rmse': 323},0.1,supervised learing model for time-series,000:00:01,prod
+482dc0db-7fc9-4570-8715-49096cbdf81e,1717887070.1157916,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 21754},0.1,supervised learing model for time-series,000:00:01,prod
+1c040608-3f82-4e0f-a846-944bb7720c1b,1717887327.62497,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 17914},0.1,supervised learing model for time-series,000:00:05,prod
+96828877-0d1e-4b2b-9b2a-db8612cd1a03,1717889798.619197,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 20875},0.1,supervised learing model for time-series,000:00:04,prod
