@@ -1,7 +1,3 @@
-  
-## [![Docker Image CI](https://github.com/clin1234/IBM_AI_Workflow_Capstone/actions/workflows/test-docker-image.yml/badge.svg)](https://github.com/clin1234/IBM_AI_Workflow_Capstone/actions/workflows/test-docker-image.yml)
-## [Link to Docker Hub](https://hub.docker.com/r/clin1234/ibm_ai_workflow_capstone)
-
 # Project Execution Instructions
 ## Run the model directly
 
